@@ -1,4 +1,4 @@
-Infinity Scroll Component: 
-https://www.npmjs.com/package/react-infinite-scroll-component
-Animation On Scroll div: 
-https://michalsnik.github.io/aos/
+Infinity Scroll Component: <br/>
+https://www.npmjs.com/package/react-infinite-scroll-component<br/>
+Animation On Scroll div: <br/>
+https://michalsnik.github.io/aos/<br/>
