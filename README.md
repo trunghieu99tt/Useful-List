@@ -7,4 +7,6 @@ https://blog.imagekit.io/how-to-deliver-responsive-images-to-browsers-across-mul
 Stick footer to bottom of page<br/>
 https://css-tricks.com/couple-takes-sticky-footer/<br/>
 Get lastest version by Git: <br/>
-https://gist.github.com/esausilva/00ac20c3639aaf62758366e26791536d
+https://gist.github.com/esausilva/00ac20c3639aaf62758366e26791536d <br/>
+Can't get CSS files when using node server
+https://stackoverflow.com/questions/13395742/can-not-get-css-file
