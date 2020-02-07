@@ -10,3 +10,5 @@ Get lastest version by Git: <br/>
 https://gist.github.com/esausilva/00ac20c3639aaf62758366e26791536d <br/>
 Can't get CSS files when using node server
 https://stackoverflow.com/questions/13395742/can-not-get-css-file
+Get Duration of audio/video without playing
+https://stackoverflow.com/questions/10868249/html5-audio-player-duration-showing-nan
