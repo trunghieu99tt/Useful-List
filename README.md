@@ -16,4 +16,7 @@ react-owl-carousel is not re-rendered after changing state/props or children ele
 Sol: Add a random key for owlCarousel component.<br/>
 https://hashnode.com/post/react-js-render-method-called-with-state-update-but-component-view-did-not-update-cjq7ohku100dm57s1yk6qvp56<br/>
 Interact with input: <br/>
-https://stackoverflow.com/questions/32174317/how-to-set-default-checked-in-checkbox-reactjs
+https://stackoverflow.com/questions/32174317/how-to-set-default-checked-in-checkbox-reactjs <br/>
+Scroll to anchor after redirect to page: <br/>
+https://codesandbox.io/s/scrollintoview-with-refs-and-redux-b881s
+ 
