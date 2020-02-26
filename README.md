@@ -15,3 +15,5 @@ https://stackoverflow.com/questions/10868249/html5-audio-player-duration-showing
 react-owl-carousel is not re-rendered after changing state/props or children elements<br/>
 Sol: Add a random key for owlCarousel component.<br/>
 https://hashnode.com/post/react-js-render-method-called-with-state-update-but-component-view-did-not-update-cjq7ohku100dm57s1yk6qvp56<br/>
+Interact with input: <br/>
+https://stackoverflow.com/questions/32174317/how-to-set-default-checked-in-checkbox-reactjs
