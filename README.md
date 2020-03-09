@@ -18,5 +18,6 @@ https://hashnode.com/post/react-js-render-method-called-with-state-update-but-co
 Interact with input: <br/>
 https://stackoverflow.com/questions/32174317/how-to-set-default-checked-in-checkbox-reactjs <br/>
 Scroll to anchor after redirect to page: <br/>
-https://codesandbox.io/s/scrollintoview-with-refs-and-redux-b881s
- 
+https://codesandbox.io/s/scrollintoview-with-refs-and-redux-b881s <br/>
+Smoothly Render Images ReacJS: <br/>
+https://dev.to/krrish96/how-to-smoothly-render-images-in-react-app-201j <br/>
