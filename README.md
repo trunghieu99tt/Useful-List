@@ -21,3 +21,5 @@ Scroll to anchor after redirect to page: <br/>
 https://codesandbox.io/s/scrollintoview-with-refs-and-redux-b881s <br/>
 Smoothly Render Images ReacJS: <br/>
 https://dev.to/krrish96/how-to-smoothly-render-images-in-react-app-201j <br/>
+Carousel <br/>
+https://swiperjs.com/demos/<br/>
